@@ -1,4 +1,4 @@
-<h1 align="center">Добрый день. Я <a href="https://strogalev.com/" target="_blank">Вячеслав</a> 
+<h1 align="center">Добрый день. Меня зовут <a href="https://strogalev.com/" target="_blank">Вячеслав</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
@@ -11,4 +11,4 @@
 - 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
 <h3>Статистика</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnstrogalev&locale=ru" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnstrogalev" alt="GitHub Streak" /></a>
