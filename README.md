@@ -11,4 +11,6 @@
 - 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
 <h3>Статистика</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vnstrogalev)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnstrogalev"/></a>
+</p>
