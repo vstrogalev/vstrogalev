@@ -1,21 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://strogalev.com/" target="_blank">Viacheslav</a> 
+<h1 align="center">Добрый день. Я <a href="https://strogalev.com/" target="_blank">Вячеслав</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&random=false&width=800&lines=Frontend+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&random=false&width=800&lines=Фронтенд+разработчик" alt="Typing SVG" /></a>
 </h3>
 
-<!--
-**vstrogalev/vstrogalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 В настоящее время я работаю в проекте миграции сайта благотворительного фонда на собственный движок с микросервисной архитектурой. 
+- 🌱 Я продолжаю изучать веб-технологии. Углубляю знания React, Redux, Typescript.
+- 👯 Я открыт к сотрудничеству в части работы на проектах, где я мог бы многому научиться, найти единомышленников, быть частью дружной команды, разрабатывающей перспективные и нужные людям и компаниям продукты.
+- 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Статистика</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnstrogalev&locale=ru" alt="GitHub Streak" /></a>
