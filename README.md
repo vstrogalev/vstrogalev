@@ -12,5 +12,7 @@
 
 <h3>Статистика</h3>
 <p align="center">
-    <a href="https://streak-stats.demolab.com/?user=vstrogalev&mode=weekly"/></a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
+    </a>
 </p>
