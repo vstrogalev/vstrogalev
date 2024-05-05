@@ -10,7 +10,7 @@
 - 👯 Я открыт к сотрудничеству в части работы на проектах, где я мог бы многому научиться, найти единомышленников, быть частью дружной команды, разрабатывающей перспективные и нужные людям и компаниям продукты.
 - 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
-<h3>Моия статистика</h3>
+<h3>Статистика</h3>
 
 <section>
   <h4>Статистика GitHub</h4>
@@ -27,4 +27,14 @@
       <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
     </a>
   </div>
+  <h4>Прочая статистика</h4>
+    [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/vstrogalev)   
+    <a href="https://www.codewars.com/users/vstrogalev/badges/large">
+      <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
+    </a>
+    <a href="https://www.codewars.com/users/vstrogalev/badges/small">
+      <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
+    </a>
+    Маленький (small):  
+    [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/vstrogalev) 
 </section>
