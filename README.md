@@ -1,4 +1,4 @@
-<h1 align="center">Добрый день. Меня зовут <a href="https://strogalev.com/" target="_blank">Вячеслав</a> 
+<h1 align="center">Добрый день. Меня зовут <a style="text-decoration: underline;" href="https://strogalev.com/" target="_blank">Вячеслав</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
