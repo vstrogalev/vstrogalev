@@ -28,8 +28,13 @@
     </a>
   </div>
   <h4>Прочая статистика</h4>
+    <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
+    <img src="https://www.codewars.com/users/vstrogalev/badges/large" alt="Codewars badge" />
+  <br>
     <a href="https://www.codewars.com/users/vstrogalev/badges/large">
       <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
+    </a>
+    <a href="https://www.codewars.com/users/vstrogalev/badges/large">
     </a>
     <a href="https://www.codewars.com/users/vstrogalev/badges/small">
       <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
