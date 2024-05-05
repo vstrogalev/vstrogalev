@@ -13,6 +13,9 @@
 <h3>Статистика</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vstrogalev)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-troph">
+      <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev" alt="GitHub Trophy" />
+    </a>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
     </a>
