@@ -17,6 +17,6 @@
       <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/ryo-ma/github-profile-troph">
-      <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev" alt="GitHub Trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev&rank=UNKNOWN" alt="GitHub Trophy" />
     </a>
 </p>
