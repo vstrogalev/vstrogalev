@@ -28,18 +28,7 @@
     </a>
   </div>
   <h4>Прочая статистика</h4>
-    <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
-    <img src="https://www.codewars.com/users/vstrogalev/badges/large" alt="Codewars badge" />
-  <br>
-    <a href="https://www.codewars.com/users/vstrogalev/badges/large">
-      <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
-    </a>
-    <a href="https://www.codewars.com/users/vstrogalev/badges/large">
-    </a>
-    <a href="https://www.codewars.com/users/vstrogalev/badges/small">
-      <img src="https://www.codewars.com/users/vstrogalev" alt="Codewars badge" />
+    <a href="https://www.codewars.com/users/vstrogalev">
+      <img src="https://www.codewars.com/users/vstrogalev/badges/large" alt="Codewars badge" />
     </a>
 </section>
-[![codewars](https://www.codewars.com/users/vstrogalev/badges/large)](https://www.codewars.com/users/vstrogalev)   
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/vstrogalev/badges/small)](https://www.codewars.com/users/vstrogalev) 
