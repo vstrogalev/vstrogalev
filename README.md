@@ -1,5 +1,4 @@
-<h1 align="center">Добрый день. Меня зовут Вячеслав</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Добрый день. Меня зовут Вячеслав <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&random=false&width=800&lines=Я+фронтенд+разработчик" alt="Typing SVG" /></a>
