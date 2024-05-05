@@ -23,9 +23,6 @@
         <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
       </a>
     </div>
-    <a href="https://github.com/ryo-ma/github-profile-troph">
-      <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
-    </a>
   </div>
   <h4>Прочая статистика</h4>
   <a href="https://www.codewars.com/users/vstrogalev">
