@@ -16,6 +16,9 @@
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="github-readme-stats" />
+    </a>
     <a href="https://github.com/ryo-ma/github-profile-troph">
       <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
     </a>
