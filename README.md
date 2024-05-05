@@ -11,7 +11,8 @@
 - 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
 <h3>Статистика</h3>
-<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=vstrogalev)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
     </a>
