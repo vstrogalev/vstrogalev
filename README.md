@@ -10,16 +10,21 @@
 - 👯 Я открыт к сотрудничеству в части работы на проектах, где я мог бы многому научиться, найти единомышленников, быть частью дружной команды, разрабатывающей перспективные и нужные людям и компаниям продукты.
 - 📫 Как связаться со мной: почта v@strogalev.ru, телефон: +7(981)2454076
 
-<h3>Статистика</h3>
+<h3>Моия статистика</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=vstrogalev" alt="github-readme-stats" />
-    </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
-    </a>
+<section>
+  <h4>Статистика GitHub</h4>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=vstrogalev" alt="github-readme-stats" />
+      </a>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=vstrogalev" alt="GitHub Streak" />
+      </a>
+    </div>
     <a href="https://github.com/ryo-ma/github-profile-troph">
       <img src="https://github-profile-trophy.vercel.app/?username=vstrogalev&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
     </a>
-</p>
+  </div>
+</section>
